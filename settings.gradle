@@ -1,0 +1,2 @@
+rootProject.name='ExpandableList_Demo'
+include ':app'
